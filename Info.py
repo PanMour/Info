@@ -1,4 +1,4 @@
-
+from libraries import *
 
 def Info_tab():
     st.title("Πληροφορίες για την εφαρμογή")
